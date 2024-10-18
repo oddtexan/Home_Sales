@@ -21,15 +21,19 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 # Answer the following questions using SparkSQL:
 
 *Question* -  What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+
 *Answer* ![s1](https://github.com/user-attachments/assets/b5992513-144b-4e5b-9cfd-bf1363776a99)
 
 *Question* - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+
 *Answer* ![s2](https://github.com/user-attachments/assets/cbbcdbd1-ac7d-49ad-b409-7a9aa57e0dd8)
   
 *Question* - What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+
 *Answer* ![s3](https://github.com/user-attachments/assets/aed65a31-6562-454b-b1a1-389289eabaf9)
 
 *Question* - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+
 *Answer* ![s4](https://github.com/user-attachments/assets/3ac0ddb6-87e1-45bd-ba8e-34c6b9ec0a4b)
 
 
